@@ -1,0 +1,23 @@
+
+  // axios
+  //   .get();
+  //   .then(response => response.data);
+  //   .then(async items =>{
+
+  //   const data = items.data; //obtengo todos los items
+
+  //   let productos = data.map(function(productos){ //escojo de todos los items para mostrar
+
+  //     return {
+  //       name: productos.name;
+  //       img: productos.img;
+  //       price: prodcutos.price;
+  //     }
+
+
+  //   })
+  // })
+
+ res.json(itemsFinal);
+
+  // return categ;
